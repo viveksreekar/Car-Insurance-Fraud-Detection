@@ -1,0 +1,17 @@
+﻿__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.env
+*.sqlite
+*.db
+*.pkl
+*.h5
+*.joblib
+.venv/
+venv/
+env/
+.DS_Store
+*.log
